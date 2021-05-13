@@ -1,5 +1,6 @@
-## Velkommen til Nabonett
-## Bachelorprosjekt
+# Velkommen til Nabonett
+## Bachelorprosjekt - Gruppe 46
+### 2020-2021
 
 
 
