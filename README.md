@@ -8,13 +8,12 @@
 #### Mehboob Singh - S333722 
 #### Bereket Tekeste - S331401
 
-<div = "linje"
-position: absoloute;
-<a href="https://github.com/Duale100/BachelorProsjekt-v1/blob/main/Status%20Rapport%20-%20gruppe%2046%20RETTET.pdf" target="_blank">Status Rapport</a>
+
+<a href="files/Status Rapport - Gruppe 46.pdf" target="_blank">Status Rapport</a>
 <br>
 ![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:width="100" height="100}
 
-<a href="https://github.com/Duale100/BachelorProsjekt-v1/blob/main/Status%20Rapport%20-%20gruppe%2046%20RETTET.pdf" target="_blank">Status Rapport</a>
+<a href="files/Prosjektskisse - Gruppe 46.pdf" target="_blank">Status Rapport</a>
 <br>
 ![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:width="100" height="100}
-</div>
+
