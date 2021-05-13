@@ -31,5 +31,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [GitHub](http://github.com)
 
-![Førprosjekt rapport](/images/adobe-pdf-file-icon-logo-vector.png)
-Format: ![Alt Text](url)
+![Image of pdf](/images/adobe-pdf-file-icon-logo-vector.png)
