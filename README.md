@@ -2,6 +2,12 @@
 ## Bachelorprosjekt - Gruppe 46
 ### 2020-2021
 
+### Gruppemedlemmer:
+#### Duale Mohamed - S333972
+#### Mohamud Abdi - S333774
+#### Mehboob Singh - S333722 
+#### Bereket Tekeste - S331401
+
 
 
 
