@@ -34,4 +34,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:class="img-responsive"}
 ![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:height="50%" width="50%"}
-![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:height="700px" width="400px"}
+![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:width="100" height="100}
