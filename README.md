@@ -21,6 +21,6 @@
 <br>
 ![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:width="100" height="100}
 
-<a href="" target="_blank">Prosjektrapport</a>
+<a href="" target="files/Bachelorprosjekt - Nabonett - Gruppe 46.pdf">Prosjektrapport</a>
 <br>
 ![test image size](/images/adobe-pdf-file-icon-logo-vector.png){:width="100" height="100}
